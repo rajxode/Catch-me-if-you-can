@@ -1,0 +1,18 @@
+body{
+	position: relative;
+}
+
+#box{
+	height: 100px;
+	width: 100px;
+	background-color: #d523da;
+	color:white;
+	text-align: center;
+	margin: 0;
+	position: absolute;
+	top: 0;
+}
+
+#box p{
+	padding-top: 30px;
+}
